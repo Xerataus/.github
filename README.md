@@ -1,9 +1,13 @@
+ 
+  <h3 align="middle">
+
+  
+![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
  <h3 align="middle">
-
  
-  <img src="https://user-images.githubusercontent.com/118361152/221969086-cdcd1991-544e-4cb9-965c-4f4a8b2623f1.PNG" alt="Xerataus" style="height: 510px; width:670px;"/>
-
-
-    
+   
   <h6 align="middle">
+
+
+<sub>©2023 XERATAUS</sub>
