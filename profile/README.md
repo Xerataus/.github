@@ -21,7 +21,7 @@ We are primarily driven to generate breakthrough ideas and convert them into sol
  
    ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/118361152/220470352-fba3c960-5a6a-4da9-824d-990eabe02228.png)
 
-  <a href="https://linkedin.com/company/aimdynmix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="45" width="55" /></a>
+  <a href="https://linkedin.com/company/xerataus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="45" width="55" /></a>
  
   <h6 align="middle">
 
