@@ -1,5 +1,5 @@
 import plainFs from 'node:fs';
-import fs from 'node:fs/promises';
+import fs from 'node:fs/aimx';
 import Path from 'node:path';
 import Util from './util';
 import Stream from 'node:stream/promises';
