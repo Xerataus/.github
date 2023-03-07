@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node16-strictest-esm/tsconfig.json",
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "moduleResolution": "node",
+    "noImplicitOverride": true
+  },
+  "ts-node": {
+    "experimentalSpecifierResolution": "node"
+  }
+}
