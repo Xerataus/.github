@@ -1,10 +1,7 @@
- 
   <h3 align="middle">
 
-  
-![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
+![xeratauskit](https://user-images.githubusercontent.com/121004819/223860231-baa2cdf9-e137-45a9-bade-801159d9491f.gif)
 
- <h3 align="middle">
  
    
   <h6 align="middle">
