@@ -41,7 +41,7 @@ Email: legal@theleightonhaus.com
 
 # Terms of Use
 
-Leighton Avant-Garde Haus. AIM DYNAMIX
+Leighton Avant-Garde Haus. Xerataus IQX
 Terms of Use
 These terms of use (“Terms”) govern your access to and use of all Leighton Avant-Garde Haus Propertiesbranded publicly available websites, including sites located on theleightonhaus.com, lucienleighton.com, and any other pages that link to these Terms (collectively, the “Sites”).
  
