@@ -7,4 +7,4 @@
   <h6 align="middle">
 
 
-<sub>©2023 XERATAUS</sub>
+<sub>©2023 XERATAUS IQX</sub>
