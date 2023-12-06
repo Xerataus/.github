@@ -28,5 +28,5 @@ We are primarily driven to generate breakthrough ideas and convert them into sol
   <h6 align="middle">
 
 
-<sub>©2023 XERATAUS IQX</sub>
+<sub>©2024 XERATAUS IQX</sub>
 
