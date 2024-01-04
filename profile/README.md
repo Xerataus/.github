@@ -5,7 +5,7 @@
 
 Xerataus is a group of exceptionally talented people. Determined in innovation for Healthcare Advancements: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Amalgamated Composite Artificial Intelligence.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
- Utilizing our synergy with Leighton Avant-Garde Haus executes an avant-garde approach toward design, development, and technologies that offers determined innovation for Healthcare Advancements: inventing immeasurable new technologies that could expand our abilities, our community, and our world. 
+ Utilizing our synergy with Leighton Dynamica executes an avant-garde approach toward design, development, and technologies that offers determined innovation for Healthcare Advancements: inventing immeasurable new technologies that could expand our abilities, our community, and our world. 
 
 
 Our Team deeply cares about real-world implications and applications. Many of our most considerable advances grow from working across multiple teams. We are unafraid to go against established norms and explore creativity.
